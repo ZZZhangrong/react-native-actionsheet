@@ -144,6 +144,12 @@ https://github.com/beefe/react-native-actionsheet/blob/master/lib/options.js
         <td></td>
     </tr>
     <tr>
+            <td>selectedColor</td>
+            <td></td>
+            <td>PropTypes.string</td>
+            <td></td>
+        </tr>
+    <tr>
         <td>cancelButtonIndex</td>
         <td></td>
         <td>PropTypes.number</td>
